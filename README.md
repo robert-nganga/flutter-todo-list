@@ -4,9 +4,4 @@ This is a simple application to help you create tasks and set reminders to incre
 All the data is stored locally using SQlite.
 
 ## Screeenshots
-
-### Home screen
-![](images/Screenshot_20211228-115734%20(2).png)
-
-### Calendar view
-![](images/Screenshot_20211228-121905%20(2).png)
+![](images/Z943GK9yDmwj_1024_500.png)
